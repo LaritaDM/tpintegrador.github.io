@@ -1,0 +1,38 @@
+#opaco{
+    filter: brightness(50%);
+    -webkit-filter: brightness(50%);
+}
+
+#java{
+    margin: 10px;
+    padding: -20px -30px -5px 5px;
+}
+
+#react{
+    margin: -10px;
+    padding: -5px -5px;
+}
+
+#column{
+    margin: 2px;
+    padding: 20px
+}
+
+#bsas{
+    margin: 2px;
+}
+
+#form{
+    margin: 60px;
+}
+
+#talk{
+    margin: 70px;
+    margin-top: -50px;
+}
+
+#pie{
+    background-color: rgb(18, 54, 40);
+    margin-top: -60px;
+    
+}
